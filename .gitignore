@@ -1,0 +1,17 @@
+# Gauge - metadata dir
+.gauge
+
+# Gauge - log files dir
+logs
+
+# Gauge - reports dir
+reports
+
+# Gauge - JavaScript node dependencies
+node_modules
+.DS_Store
+package-lock.json
+
+# auto-generated content
+Navigate to About Page via the Our Story link_CoFounderDetails.csv
+Navigate to About Page via the search button_CoFounderDetails.csv

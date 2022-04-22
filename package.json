@@ -1,0 +1,14 @@
+{
+  "name": "gauge-taiko-template",
+  "version": "0.0.1",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+  "dependencies": {
+    "async-await-retry": "^1.2.0",
+    "dotenv": "^8.2.0",
+    "require-context": "^1.1.0",
+    "taiko": "1.2.5"
+  }
+}
